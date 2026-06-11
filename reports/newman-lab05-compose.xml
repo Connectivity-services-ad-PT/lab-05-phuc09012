@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Lab 05 - Smart Campus IoT API" tests="2" time="0.049">
+  <testsuite name="1. Health Check (API sống không?)" id="537a8615-fe15-4b4f-b1c8-7e0fb02f5bf1" timestamp="2026-06-11T07:21:49.508Z" tests="1" failures="0" errors="0" time="0.032">
+    <testcase name="Status code is 200 OK" time="0.032" classname="1HealthCheckApiSngKhong"/>
+  </testsuite>
+  <testsuite name="2. Gửi dữ liệu Cảm biến (Readings)" id="032d78a1-e320-4fe3-b79c-618ef6454517" timestamp="2026-06-11T07:21:49.508Z" tests="1" failures="0" errors="0" time="0.017">
+    <testcase name="Status code is 200 OK" time="0.017" classname="2GiDLiuCmBinReadings"/>
+  </testsuite>
+</testsuites>
